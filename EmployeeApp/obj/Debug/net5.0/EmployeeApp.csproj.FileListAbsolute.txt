@@ -1,0 +1,15 @@
+C:\Users\rowen\Downloads\EmployeeApp\bin\Debug\net5.0\EmployeeApp.exe
+C:\Users\rowen\Downloads\EmployeeApp\bin\Debug\net5.0\EmployeeApp.deps.json
+C:\Users\rowen\Downloads\EmployeeApp\bin\Debug\net5.0\EmployeeApp.runtimeconfig.json
+C:\Users\rowen\Downloads\EmployeeApp\bin\Debug\net5.0\EmployeeApp.runtimeconfig.dev.json
+C:\Users\rowen\Downloads\EmployeeApp\bin\Debug\net5.0\EmployeeApp.dll
+C:\Users\rowen\Downloads\EmployeeApp\bin\Debug\net5.0\EmployeeApp.pdb
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\EmployeeApp.AssemblyInfo.cs
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\EmployeeApp.dll
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\refint\EmployeeApp.dll
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\EmployeeApp.pdb
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\EmployeeApp.genruntimeconfig.cache
+C:\Users\rowen\Downloads\EmployeeApp\obj\Debug\net5.0\ref\EmployeeApp.dll
